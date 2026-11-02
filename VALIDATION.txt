@@ -1,0 +1,4 @@
+flutter analyze: passed, no issues.
+flutter test: passed, 2 widget tests (workout validation/persistence and iPad rail).
+iOS simulator build: not verified. Local xcodebuild exits with error 66 and CoreSimulatorService is unavailable.
+Physical-device signing requires your Apple development team in Xcode.
